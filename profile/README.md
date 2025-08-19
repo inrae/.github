@@ -23,7 +23,7 @@ The repositories in the **inrae GitHub organization** cover a wide range of topi
 - Packages and resources relevant to the scientific community (e.g., R, Python)  
 - Mirrors of codebases primarily hosted on other platforms (INRAE official forge, GitLab, etc.)  
 
-You can browse the full list of repositories [here](./).  
+You can browse the full list of repositories [here](https://github.com/orgs/inrae/repositories).  
 
 ---
 
